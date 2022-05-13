@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-My web development journey started in the year 2019. In the past 3 years I have worked on ReactJS, Angular, Node.js, Firebase Firestore, PostgreSQL, MySQL, Angular Material, Bootstrap. I also have some hands-on experience of working on JQuery and Java.
+My web development journey started in the year 2019. In the past 3 years, I have worked on ReactJS, Angular, Node.js, Firebase Firestore, PostgreSQL, MySQL, Angular Material, Bootstrap. I also have some hands-on experience of working on JQuery and Java. 
 
 💻  I'm currently learning ReactJS, Tailwind and Firebase  
 🤝  I'm open to collaborating on MERN stack projects  
