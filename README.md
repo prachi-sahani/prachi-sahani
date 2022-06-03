@@ -2,8 +2,8 @@
 
 My web development journey started in the year 2019. In the past 3 years, I have worked on ReactJS, Angular, Node.js, Firebase Firestore, PostgreSQL, MySQL, Angular Material, Bootstrap. I also have some hands-on experience of working on JQuery and Java. 
 
-💻  I'm currently exploring Typescript and Redux Toolkit.
-🤝  I'm open to collaborating on MERN stack projects  
+💻  I'm currently exploring Typescript and Redux Toolkit.  
+🤝  I'm open to collaborating on MERN stack projects.  
 🌟  In my free time, you can find me on the dance floor or covered in paints.  
 
 ### Skills
